@@ -13,6 +13,16 @@ public class NewBehaviourScript : MonoBehaviour
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);   //in theory should move back by one scene
     }
+    public void SettingsButton()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 3);   //on click set active scene to 4 (settings menu)
+       
+    }
+    public void SettingsBackButton()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 3);   //on click set active scene to 4 (settings menu)
+
+    }
     public void QuitGame()
     {
         Application.Quit();

@@ -9,9 +9,14 @@ EditorBuildSettings:
     path: Assets/Scenes/main menu.unity
     guid: 37ece4901492c6c4dbedd5dfd8427ab0
   - enabled: 1
-    path: Assets/Scenes/Level 0.unity
+    path: Assets/Scenes/Gamemode.unity
     guid: d440e3c9fe8a32f49838d6c677afc66e
-  - enabled: 0
-    path: Assets/Scenes/Basic Environment.unity
+  - enabled: 1
+    path: Assets/Scenes/Level 1 test.unity
     guid: 0d596e2776c5cf846b1fd0e9bb3948f7
-  m_configObjects: {}
+  - enabled: 1
+    path: Assets/Scenes/Settings menu.unity
+    guid: fbd02912d45b7d34387abc6eb4100e9d
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 565602558a7e8134a846d1b48360d977, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 794d4c5cb46dc41479f494cd786ab351, type: 2}
