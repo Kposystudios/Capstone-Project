@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ed03e62bf7275ac4f94029a77880d817
+timeCreated: 1510086875
+licenseType: Store
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304226
+  packageName: Platform Shooter 2D - Photon Quantum
+  packageVersion: 1.0
+  assetPath: Assets/PlatformShooter2D/Shaders/MobileAddX.shader
+  uploadId: 717543

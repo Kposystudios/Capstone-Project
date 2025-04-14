@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 09304699cfb7ed34e937e53f6b8f4e69
+timeCreated: 1520448981
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304226
+  packageName: Platform Shooter 2D - Photon Quantum
+  packageVersion: 1.0
+  assetPath: Assets/PlatformShooter2D/Prefabs/KillzoneEntry.prefab
+  uploadId: 717543

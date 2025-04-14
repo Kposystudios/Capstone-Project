@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 71d67a1526e9a6f42a1e12bfebd9ea81
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304226
+  packageName: Platform Shooter 2D - Photon Quantum
+  packageVersion: 1.0
+  assetPath: Assets/PlatformShooter2D/Prefabs/ScreenButtonsUI.prefab
+  uploadId: 717543

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 4b398431589a43c4c8ae2bfeb7444a86
+timeCreated: 1519845133
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304226
+  packageName: Platform Shooter 2D - Photon Quantum
+  packageVersion: 1.0
+  assetPath: Assets/PlatformShooter2D/Prefabs/MachineGunBulletDestroyFX.prefab
+  uploadId: 717543

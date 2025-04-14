@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f4e1bb8be399c9e47b3b67e1ed021556
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304226
+  packageName: Platform Shooter 2D - Photon Quantum
+  packageVersion: 1.0
+  assetPath: Assets/PlatformShooter2D/Textures/GirlUIRenderTexture.renderTexture
+  uploadId: 717543

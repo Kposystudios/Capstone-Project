@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6b39bcf0529d648429c5208c49c82136
+labels:
+- QuantumAsset
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304226
+  packageName: Platform Shooter 2D - Photon Quantum
+  packageVersion: 1.0
+  assetPath: Assets/QuantumUser/Resources/ElectrifySkill.prefab
+  uploadId: 717543

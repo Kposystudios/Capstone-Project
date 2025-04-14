@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: da90f6f347153d3449fece270a76a9e1
+timeCreated: 1515519700
+licenseType: Store
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304226
+  packageName: Platform Shooter 2D - Photon Quantum
+  packageVersion: 1.0
+  assetPath: Assets/Photon/Quantum/Resources/LUT/FPCos.bytes
+  uploadId: 717543

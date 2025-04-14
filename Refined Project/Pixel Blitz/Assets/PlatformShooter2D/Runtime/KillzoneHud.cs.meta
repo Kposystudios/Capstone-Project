@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: b886c9bfc8a8be54d96ea919e0929836
+timeCreated: 1520448017
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304226
+  packageName: Platform Shooter 2D - Photon Quantum
+  packageVersion: 1.0
+  assetPath: Assets/PlatformShooter2D/Runtime/KillzoneHud.cs
+  uploadId: 717543

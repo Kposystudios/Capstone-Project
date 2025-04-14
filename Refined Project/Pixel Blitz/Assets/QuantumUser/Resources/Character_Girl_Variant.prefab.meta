@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ad11af3ce4972b84cafd8ab9e07d00ff
+labels:
+- QuantumAsset
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304226
+  packageName: Platform Shooter 2D - Photon Quantum
+  packageVersion: 1.0
+  assetPath: Assets/QuantumUser/Resources/Character_Girl_Variant.prefab
+  uploadId: 717543

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0654a63301f849a4683be044429b7b6a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304226
+  packageName: Platform Shooter 2D - Photon Quantum
+  packageVersion: 1.0
+  assetPath: Assets/PlatformShooter2D/Menu/QuantumMenuViewPartyMenu Variant.prefab
+  uploadId: 717543

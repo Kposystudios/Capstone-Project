@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 023bd4b4a569bc64184ad871a303ab17
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304226
+  packageName: Platform Shooter 2D - Photon Quantum
+  packageVersion: 1.0
+  assetPath: Assets/Photon/Quantum/README.md
+  uploadId: 717543

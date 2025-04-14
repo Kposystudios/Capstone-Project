@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c7526034cd1f6664aba013b8a687b431
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304226
+  packageName: Platform Shooter 2D - Photon Quantum
+  packageVersion: 1.0
+  assetPath: Assets/PlatformShooter2D/Animations/CharacterSelectionPanel.controller
+  uploadId: 717543

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ec49ef450de31d54f87ff9a0de7a7f2b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304226
+  packageName: Platform Shooter 2D - Photon Quantum
+  packageVersion: 1.0
+  assetPath: Assets/PlatformShooter2D/Runtime/CreateBazookaSmoke.cs
+  uploadId: 717543

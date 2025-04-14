@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ec5ed722a0d07c34da47ec09d860f1c6
+labels:
+- QuantumAsset
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304226
+  packageName: Platform Shooter 2D - Photon Quantum
+  packageVersion: 1.0
+  assetPath: Assets/QuantumUser/Resources/BulletMachineGun.prefab
+  uploadId: 717543

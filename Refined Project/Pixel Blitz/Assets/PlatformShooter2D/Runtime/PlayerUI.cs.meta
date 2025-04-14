@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 7401bd1e342902447825ddf5101d057e
+timeCreated: 1519867511
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304226
+  packageName: Platform Shooter 2D - Photon Quantum
+  packageVersion: 1.0
+  assetPath: Assets/PlatformShooter2D/Runtime/PlayerUI.cs
+  uploadId: 717543

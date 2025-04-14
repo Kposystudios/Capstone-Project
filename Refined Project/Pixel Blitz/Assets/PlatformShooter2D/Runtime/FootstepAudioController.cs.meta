@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: d5e9cb68cefd59840bd70d459bd07952
+timeCreated: 1520455679
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304226
+  packageName: Platform Shooter 2D - Photon Quantum
+  packageVersion: 1.0
+  assetPath: Assets/PlatformShooter2D/Runtime/FootstepAudioController.cs
+  uploadId: 717543

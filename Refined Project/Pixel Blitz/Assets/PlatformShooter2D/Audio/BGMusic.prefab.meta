@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 0bddc2482b7bfb14c8258467d23c425b
+timeCreated: 1520449881
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304226
+  packageName: Platform Shooter 2D - Photon Quantum
+  packageVersion: 1.0
+  assetPath: Assets/PlatformShooter2D/Audio/BGMusic.prefab
+  uploadId: 717543

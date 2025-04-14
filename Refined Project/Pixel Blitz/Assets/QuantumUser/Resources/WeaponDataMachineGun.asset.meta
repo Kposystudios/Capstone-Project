@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 5670ea22b401d32488450db7f9d125cd
+labels:
+- QuantumAsset
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304226
+  packageName: Platform Shooter 2D - Photon Quantum
+  packageVersion: 1.0
+  assetPath: Assets/QuantumUser/Resources/WeaponDataMachineGun.asset
+  uploadId: 717543

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 9dbb2a1169a653944bea1d29ce9e1051
+timeCreated: 1519845715
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304226
+  packageName: Platform Shooter 2D - Photon Quantum
+  packageVersion: 1.0
+  assetPath: Assets/PlatformShooter2D/Runtime/CharacterBlink.cs
+  uploadId: 717543

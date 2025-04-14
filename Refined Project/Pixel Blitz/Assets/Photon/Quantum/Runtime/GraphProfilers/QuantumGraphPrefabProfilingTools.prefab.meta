@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5602860c4031ceb4894f9d73c30de540
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304226
+  packageName: Platform Shooter 2D - Photon Quantum
+  packageVersion: 1.0
+  assetPath: Assets/Photon/Quantum/Runtime/GraphProfilers/QuantumGraphPrefabProfilingTools.prefab
+  uploadId: 717543

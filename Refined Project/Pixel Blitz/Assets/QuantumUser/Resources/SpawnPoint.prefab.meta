@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4099aaf54cf72bd42868aec40b1955b5
+labels:
+- QuantumAsset
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304226
+  packageName: Platform Shooter 2D - Photon Quantum
+  packageVersion: 1.0
+  assetPath: Assets/QuantumUser/Resources/SpawnPoint.prefab
+  uploadId: 717543

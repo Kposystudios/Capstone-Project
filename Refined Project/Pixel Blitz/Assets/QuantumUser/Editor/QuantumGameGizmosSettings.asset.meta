@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 73d026398ca87fe46a6d85477863b02e
+labels:
+- QuantumDefaultGlobal
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304226
+  packageName: Platform Shooter 2D - Photon Quantum
+  packageVersion: 1.0
+  assetPath: Assets/QuantumUser/Editor/QuantumGameGizmosSettings.asset
+  uploadId: 717543

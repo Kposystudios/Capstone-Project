@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7b8d198ef5b1b43408d0bf10ec0fb748
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304226
+  packageName: Platform Shooter 2D - Photon Quantum
+  packageVersion: 1.0
+  assetPath: Assets/QuantumUser/View/Generated/QPrototypeSpawnPlaces.cs
+  uploadId: 717543

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 172685ca75251e447a9017021541257c
+AssemblyDefinitionReferenceImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304226
+  packageName: Platform Shooter 2D - Photon Quantum
+  packageVersion: 1.0
+  assetPath: Assets/QuantumUser/Editor/CodeGen/Quantum.Unity.Editor.CodeGen.asmref
+  uploadId: 717543

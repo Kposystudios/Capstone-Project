@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fd3267706162b0c41918fab62e96a492
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304226
+  packageName: Platform Shooter 2D - Photon Quantum
+  packageVersion: 1.0
+  assetPath: Assets/Photon/QuantumMenu/Runtime/RuntimeAssets/QuantumMenuBackgroundWindow.prefab
+  uploadId: 717543

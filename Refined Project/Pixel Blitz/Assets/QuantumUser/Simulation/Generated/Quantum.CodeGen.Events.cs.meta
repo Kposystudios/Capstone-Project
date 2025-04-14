@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2fcd46ef68508b0419d2d1ad9daadfa4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304226
+  packageName: Platform Shooter 2D - Photon Quantum
+  packageVersion: 1.0
+  assetPath: Assets/QuantumUser/Simulation/Generated/Quantum.CodeGen.Events.cs
+  uploadId: 717543

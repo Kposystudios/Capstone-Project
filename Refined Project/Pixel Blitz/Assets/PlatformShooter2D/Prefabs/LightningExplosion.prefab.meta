@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 04ce2b01010a3d24494f26e3eaf7f752
+timeCreated: 1520445970
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304226
+  packageName: Platform Shooter 2D - Photon Quantum
+  packageVersion: 1.0
+  assetPath: Assets/PlatformShooter2D/Prefabs/LightningExplosion.prefab
+  uploadId: 717543

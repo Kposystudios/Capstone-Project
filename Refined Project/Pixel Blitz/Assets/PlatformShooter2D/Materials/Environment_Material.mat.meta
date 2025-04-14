@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 83a528c72287a1a4c993ef01e849be55
+timeCreated: 1520565921
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304226
+  packageName: Platform Shooter 2D - Photon Quantum
+  packageVersion: 1.0
+  assetPath: Assets/PlatformShooter2D/Materials/Environment_Material.mat
+  uploadId: 717543

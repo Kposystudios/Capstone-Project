@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 1b9ff7770c3fb5c4d8edfb79595ac276
+timeCreated: 1520284977
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304226
+  packageName: Platform Shooter 2D - Photon Quantum
+  packageVersion: 1.0
+  assetPath: Assets/PlatformShooter2D/Prefabs/FloatingCombatTextEntry.prefab
+  uploadId: 717543

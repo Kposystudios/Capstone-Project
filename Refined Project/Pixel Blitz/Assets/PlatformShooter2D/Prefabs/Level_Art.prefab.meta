@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d075c32e1dfedd448a74422f9eb1c031
+timeCreated: 1520558231
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304226
+  packageName: Platform Shooter 2D - Photon Quantum
+  packageVersion: 1.0
+  assetPath: Assets/PlatformShooter2D/Prefabs/Level_Art.prefab
+  uploadId: 717543

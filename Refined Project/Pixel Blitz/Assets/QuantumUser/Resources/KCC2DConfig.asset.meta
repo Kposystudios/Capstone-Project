@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 5add3331ba2fe9d44be89ce16c9a0f19
+labels:
+- QuantumAsset
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304226
+  packageName: Platform Shooter 2D - Photon Quantum
+  packageVersion: 1.0
+  assetPath: Assets/QuantumUser/Resources/KCC2DConfig.asset
+  uploadId: 717543

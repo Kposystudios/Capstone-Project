@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 5566fcb56eed4a94ebf24419bec814f2
+timeCreated: 1519760081
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304226
+  packageName: Platform Shooter 2D - Photon Quantum
+  packageVersion: 1.0
+  assetPath: Assets/PlatformShooter2D/Runtime/CharacterAnimatorObserver.cs
+  uploadId: 717543

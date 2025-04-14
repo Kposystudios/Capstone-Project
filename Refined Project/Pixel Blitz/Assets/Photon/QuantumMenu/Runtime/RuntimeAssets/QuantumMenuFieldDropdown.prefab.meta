@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a4ae35276402afe49a0509aace8db798
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304226
+  packageName: Platform Shooter 2D - Photon Quantum
+  packageVersion: 1.0
+  assetPath: Assets/Photon/QuantumMenu/Runtime/RuntimeAssets/QuantumMenuFieldDropdown.prefab
+  uploadId: 717543

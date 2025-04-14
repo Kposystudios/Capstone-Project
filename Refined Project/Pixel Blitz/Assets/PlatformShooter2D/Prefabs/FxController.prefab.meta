@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 835b255013b36884b80a1f8b8a9b5400
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304226
+  packageName: Platform Shooter 2D - Photon Quantum
+  packageVersion: 1.0
+  assetPath: Assets/PlatformShooter2D/Prefabs/FxController.prefab
+  uploadId: 717543

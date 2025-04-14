@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e45171e3709f57b448f2e24bb251b9f1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304226
+  packageName: Platform Shooter 2D - Photon Quantum
+  packageVersion: 1.0
+  assetPath: Assets/PlatformShooter2D/Prefabs/CharacterVisuals.prefab
+  uploadId: 717543

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dd990862cb66eaa419922d6a3edb9590
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304226
+  packageName: Platform Shooter 2D - Photon Quantum
+  packageVersion: 1.0
+  assetPath: Assets/Scenes/QuantumGameScene/PlatformShooter2D-LightSettings.lighting
+  uploadId: 717543

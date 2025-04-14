@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 38b8c6c1d414c43418018f83c6e67216
+labels:
+- QuantumAsset
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304226
+  packageName: Platform Shooter 2D - Photon Quantum
+  packageVersion: 1.0
+  assetPath: Assets/QuantumUser/Resources/QuantumMap.asset
+  uploadId: 717543

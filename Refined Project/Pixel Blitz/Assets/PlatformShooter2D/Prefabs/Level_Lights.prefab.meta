@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 601f8155cdccb4f45814e7a5e800b51c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304226
+  packageName: Platform Shooter 2D - Photon Quantum
+  packageVersion: 1.0
+  assetPath: Assets/PlatformShooter2D/Prefabs/Level_Lights.prefab
+  uploadId: 717543

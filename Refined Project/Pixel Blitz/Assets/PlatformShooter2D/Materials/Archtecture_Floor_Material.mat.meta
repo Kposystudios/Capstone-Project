@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a422e40d3acb8f14797286daa0695dec
+timeCreated: 1520571192
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304226
+  packageName: Platform Shooter 2D - Photon Quantum
+  packageVersion: 1.0
+  assetPath: Assets/PlatformShooter2D/Materials/Archtecture_Floor_Material.mat
+  uploadId: 717543

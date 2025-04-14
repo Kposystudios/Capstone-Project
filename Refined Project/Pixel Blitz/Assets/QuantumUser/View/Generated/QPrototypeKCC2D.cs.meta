@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e363c29ea9339d24b88cbf75f7261fcf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304226
+  packageName: Platform Shooter 2D - Photon Quantum
+  packageVersion: 1.0
+  assetPath: Assets/QuantumUser/View/Generated/QPrototypeKCC2D.cs
+  uploadId: 717543

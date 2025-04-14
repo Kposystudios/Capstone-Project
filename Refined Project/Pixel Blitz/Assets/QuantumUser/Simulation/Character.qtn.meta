@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 29c2d09548d844a6bab198d983b316fb
+timeCreated: 1710881244
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304226
+  packageName: Platform Shooter 2D - Photon Quantum
+  packageVersion: 1.0
+  assetPath: Assets/QuantumUser/Simulation/Character.qtn
+  uploadId: 717543

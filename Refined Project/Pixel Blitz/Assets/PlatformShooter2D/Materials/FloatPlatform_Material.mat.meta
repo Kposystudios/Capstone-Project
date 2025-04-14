@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 63415d4ba31d63b43bba0c09fa428829
+timeCreated: 1520543778
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304226
+  packageName: Platform Shooter 2D - Photon Quantum
+  packageVersion: 1.0
+  assetPath: Assets/PlatformShooter2D/Materials/FloatPlatform_Material.mat
+  uploadId: 717543

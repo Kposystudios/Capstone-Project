@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8a40b6d042bd4984cac6300a0034bb13
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304226
+  packageName: Platform Shooter 2D - Photon Quantum
+  packageVersion: 1.0
+  assetPath: Assets/PlatformShooter2D/Models/WeaponFlare01.prefab
+  uploadId: 717543

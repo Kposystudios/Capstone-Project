@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f23d3edd333e1dc449a4688e04123759
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304226
+  packageName: Platform Shooter 2D - Photon Quantum
+  packageVersion: 1.0
+  assetPath: Assets/Photon/QuantumMenu/QuantumSampleMenu.unity
+  uploadId: 717543

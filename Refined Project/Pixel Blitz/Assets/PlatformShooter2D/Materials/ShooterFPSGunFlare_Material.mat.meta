@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a3337f7db8e704a5d8d9c254a8e70cbc
+timeCreated: 1529691736
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304226
+  packageName: Platform Shooter 2D - Photon Quantum
+  packageVersion: 1.0
+  assetPath: Assets/PlatformShooter2D/Materials/ShooterFPSGunFlare_Material.mat
+  uploadId: 717543

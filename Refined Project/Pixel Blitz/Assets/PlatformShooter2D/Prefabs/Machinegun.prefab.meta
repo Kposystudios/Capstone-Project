@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 861fae0ca61e2ba429636a9f3e2be70d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304226
+  packageName: Platform Shooter 2D - Photon Quantum
+  packageVersion: 1.0
+  assetPath: Assets/PlatformShooter2D/Prefabs/Machinegun.prefab
+  uploadId: 717543

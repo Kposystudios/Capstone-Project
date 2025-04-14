@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: bac352ef18ed3684aba1ddc6dd2588f2
+timeCreated: 1681382704
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304226
+  packageName: Platform Shooter 2D - Photon Quantum
+  packageVersion: 1.0
+  assetPath: Assets/Photon/Quantum/Editor/QuantumEditorConfigImporter.cs
+  uploadId: 717543

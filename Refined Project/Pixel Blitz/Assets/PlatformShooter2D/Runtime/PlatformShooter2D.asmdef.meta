@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d1be66392b6d936499cbe6797c0eb834
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304226
+  packageName: Platform Shooter 2D - Photon Quantum
+  packageVersion: 1.0
+  assetPath: Assets/PlatformShooter2D/Runtime/PlatformShooter2D.asmdef
+  uploadId: 717543

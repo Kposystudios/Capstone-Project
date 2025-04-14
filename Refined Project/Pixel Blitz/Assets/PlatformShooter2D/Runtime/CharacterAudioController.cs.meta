@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: a6c585f4e8fe422490e923cd70dcc75f
+timeCreated: 1520293853
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304226
+  packageName: Platform Shooter 2D - Photon Quantum
+  packageVersion: 1.0
+  assetPath: Assets/PlatformShooter2D/Runtime/CharacterAudioController.cs
+  uploadId: 717543
